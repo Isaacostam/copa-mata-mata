@@ -26,19 +26,19 @@
       "winner": null
     },
     "2F06": {
-      "s1": null,
-      "s2": null,
+      "s1": 3,
+      "s2": 0,
       "winner": null
     },
     "2F07": {
       "s1": 2,
       "s2": 0,
-      "winner": null
+      "winner": "ESTADOS UNIDOS"
     },
     "2F08": {
-      "s1": 3,
+      "s1": 2,
       "s2": 2,
-      "winner": null
+      "winner": "BÉLGICA"
     },
     "2F09": {
       "s1": 2,
