@@ -33,12 +33,12 @@
     "2F07": {
       "s1": 2,
       "s2": 0,
-      "winner": "ESTADOS UNIDOS"
+      "winner": null
     },
     "2F08": {
-      "s1": 2,
+      "s1": 3,
       "s2": 2,
-      "winner": "BÉLGICA"
+      "winner": null
     },
     "2F09": {
       "s1": 2,
