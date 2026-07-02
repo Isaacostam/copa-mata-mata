@@ -1,0 +1,204 @@
+{
+  "2fase": {
+    "2F01": {
+      "s1": 1,
+      "s2": 1,
+      "winner": "PARAGUAI"
+    },
+    "2F02": {
+      "s1": 3,
+      "s2": 0,
+      "winner": null
+    },
+    "2F03": {
+      "s1": 0,
+      "s2": 1,
+      "winner": null
+    },
+    "2F04": {
+      "s1": 1,
+      "s2": 1,
+      "winner": "MARROCOS"
+    },
+    "2F05": {
+      "s1": null,
+      "s2": null,
+      "winner": null
+    },
+    "2F06": {
+      "s1": null,
+      "s2": null,
+      "winner": null
+    },
+    "2F07": {
+      "s1": 2,
+      "s2": 0,
+      "winner": null
+    },
+    "2F08": {
+      "s1": 3,
+      "s2": 2,
+      "winner": null
+    },
+    "2F09": {
+      "s1": 2,
+      "s2": 1,
+      "winner": null
+    },
+    "2F10": {
+      "s1": 1,
+      "s2": 2,
+      "winner": null
+    },
+    "2F11": {
+      "s1": 2,
+      "s2": 0,
+      "winner": null
+    },
+    "2F12": {
+      "s1": 2,
+      "s2": 1,
+      "winner": null
+    },
+    "2F13": {
+      "s1": null,
+      "s2": null,
+      "winner": null
+    },
+    "2F14": {
+      "s1": null,
+      "s2": null,
+      "winner": null
+    },
+    "2F15": {
+      "s1": null,
+      "s2": null,
+      "winner": null
+    },
+    "2F16": {
+      "s1": null,
+      "s2": null,
+      "winner": null
+    }
+  },
+  "ko": {
+    "OIT1": {
+      "t1": null,
+      "t2": null,
+      "s1": null,
+      "s2": null,
+      "winner": null
+    },
+    "OIT2": {
+      "t1": null,
+      "t2": null,
+      "s1": null,
+      "s2": null,
+      "winner": null
+    },
+    "OIT3": {
+      "t1": null,
+      "t2": null,
+      "s1": null,
+      "s2": null,
+      "winner": null
+    },
+    "OIT4": {
+      "t1": null,
+      "t2": null,
+      "s1": null,
+      "s2": null,
+      "winner": null
+    },
+    "OIT5": {
+      "t1": null,
+      "t2": null,
+      "s1": null,
+      "s2": null,
+      "winner": null
+    },
+    "OIT6": {
+      "t1": null,
+      "t2": null,
+      "s1": null,
+      "s2": null,
+      "winner": null
+    },
+    "OIT7": {
+      "t1": null,
+      "t2": null,
+      "s1": null,
+      "s2": null,
+      "winner": null
+    },
+    "OIT8": {
+      "t1": null,
+      "t2": null,
+      "s1": null,
+      "s2": null,
+      "winner": null
+    },
+    "QRT1": {
+      "t1": null,
+      "t2": null,
+      "s1": null,
+      "s2": null,
+      "winner": null
+    },
+    "QRT2": {
+      "t1": null,
+      "t2": null,
+      "s1": null,
+      "s2": null,
+      "winner": null
+    },
+    "QRT3": {
+      "t1": null,
+      "t2": null,
+      "s1": null,
+      "s2": null,
+      "winner": null
+    },
+    "QRT4": {
+      "t1": null,
+      "t2": null,
+      "s1": null,
+      "s2": null,
+      "winner": null
+    },
+    "SEM1": {
+      "t1": null,
+      "t2": null,
+      "s1": null,
+      "s2": null,
+      "winner": null
+    },
+    "SEM2": {
+      "t1": null,
+      "t2": null,
+      "s1": null,
+      "s2": null,
+      "winner": null
+    },
+    "TER1": {
+      "t1": null,
+      "t2": null,
+      "s1": null,
+      "s2": null,
+      "winner": null
+    },
+    "FIN1": {
+      "t1": null,
+      "t2": null,
+      "s1": null,
+      "s2": null,
+      "winner": null
+    }
+  },
+  "final": {
+    "champion": "",
+    "vice": "",
+    "terceiro": "",
+    "quarto": ""
+  }
+}
