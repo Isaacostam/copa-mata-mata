@@ -61,9 +61,9 @@
       "winner": null
     },
     "2F13": {
-      "s1": null,
-      "s2": null,
-      "winner": null
+      "s1": 1,
+      "s2": 1,
+      "winner": "ARGENTINA"
     },
     "2F14": {
       "s1": 1,
