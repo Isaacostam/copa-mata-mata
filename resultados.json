@@ -76,8 +76,8 @@
       "winner": null
     },
     "2F16": {
-      "s1": null,
-      "s2": null,
+      "s1": 1,
+      "s2": 0,
       "winner": null
     }
   },
