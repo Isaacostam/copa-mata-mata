@@ -90,10 +90,10 @@
       "winner": null
     },
     "OIT2": {
-      "t1": null,
-      "t2": null,
-      "s1": null,
-      "s2": null,
+      "t1": "CANADÁ",
+      "t2": "MARROCOS",
+      "s1": 0,
+      "s2": 3,
       "winner": null
     },
     "OIT3": {
