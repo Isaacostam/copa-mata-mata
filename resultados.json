@@ -97,10 +97,10 @@
       "winner": null
     },
     "OIT3": {
-      "t1": null,
-      "t2": null,
-      "s1": null,
-      "s2": null,
+      "t1": "PORTUGAL",
+      "t2": "ESPANHA",
+      "s1": 0,
+      "s2": 1,
       "winner": null
     },
     "OIT4": {
