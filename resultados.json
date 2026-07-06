@@ -118,10 +118,10 @@
       "winner": null
     },
     "OIT6": {
-      "t1": null,
-      "t2": null,
-      "s1": null,
-      "s2": null,
+      "t1": "MÉXICO",
+      "t2": "INGLATERRA",
+      "s1": 2,
+      "s2": 3,
       "winner": null
     },
     "OIT7": {
