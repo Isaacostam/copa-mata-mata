@@ -104,10 +104,10 @@
       "winner": null
     },
     "OIT4": {
-      "t1": null,
-      "t2": null,
-      "s1": null,
-      "s2": null,
+      "t1": "ESTADOS UNIDOS",
+      "t2": "BÉLGICA",
+      "s1": 1,
+      "s2": 4,
       "winner": null
     },
     "OIT5": {
