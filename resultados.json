@@ -136,13 +136,13 @@
       "t2": "COLÔMBIA",
       "s1": 0,
       "s2": 0,
-      "winner": "SUIÇA"
+      "winner": null
     },
     "QRT1": {
-      "t1": null,
-      "t2": null,
-      "s1": null,
-      "s2": null,
+      "t1": "FRANÇA",
+      "t2": "MARROCOS",
+      "s1": 2,
+      "s2": 0,
       "winner": null
     },
     "QRT2": {
