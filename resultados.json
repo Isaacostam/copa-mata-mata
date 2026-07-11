@@ -146,10 +146,10 @@
       "winner": null
     },
     "QRT2": {
-      "t1": null,
-      "t2": null,
-      "s1": null,
-      "s2": null,
+      "t1": "ESPANHA",
+      "t2": "BÉLGICA",
+      "s1": 2,
+      "s2": 1,
       "winner": null
     },
     "QRT3": {
