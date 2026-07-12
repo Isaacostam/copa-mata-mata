@@ -153,18 +153,18 @@
       "winner": null
     },
     "QRT3": {
-      "t1": null,
-      "t2": null,
-      "s1": null,
-      "s2": null,
-      "winner": null
+      "t1": "NORUEGA",
+      "t2": "INGLATERRA",
+      "s1": 1,
+      "s2": 1,
+      "winner": "INGLATERRA"
     },
     "QRT4": {
-      "t1": null,
-      "t2": null,
-      "s1": null,
-      "s2": null,
-      "winner": null
+      "t1": "ARGENTINA",
+      "t2": "SUIÇA",
+      "s1": 1,
+      "s2": 1,
+      "winner": "ARGENTINA"
     },
     "SEM1": {
       "t1": null,
