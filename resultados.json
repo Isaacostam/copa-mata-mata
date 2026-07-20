@@ -181,18 +181,18 @@
       "winner": null
     },
     "TER1": {
-      "t1": null,
-      "t2": null,
-      "s1": null,
-      "s2": null,
+      "t1": "FRANÇA",
+      "t2": "INGLATERRA",
+      "s1": 4,
+      "s2": 6,
       "winner": null
     },
     "FIN1": {
-      "t1": null,
-      "t2": null,
-      "s1": null,
-      "s2": null,
-      "winner": null
+      "t1": "ESPANHA",
+      "t2": "ARGENTINA",
+      "s1": 0,
+      "s2": 0,
+      "winner": "ESPANHA"
     }
   },
   "final": {
